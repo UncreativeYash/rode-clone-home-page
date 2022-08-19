@@ -1,4 +1,15 @@
-# Rode Home Page Clone
+# Project Rode Clone
 ---
+
 ## Tech-Stack Used
-- Tailwind CSS
+- Tailwind CSS 
+
+
+---
+## Live Link
+[Rode](https://rode-com-by-yash.netlify.app/)
+
+---
+
+## Project Screenshot
+![Rode-Clone](/rode.png)
